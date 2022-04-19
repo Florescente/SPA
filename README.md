@@ -1,4 +1,4 @@
-# SPA
+# SSG
 Bootstrap 5/icons - PHP 8/phpmailer - Javascript/fslightbox
 
 Para ativar o Google Maps você precisa fazer uma chave gratuita no google cloud e colocar no lugar de "API_KEY" dentro do src do script no final do body da index.html (linha 535) e ajustar o local em maps.js mudando os valores de latitude e longitude.\
